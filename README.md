@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi
+I am 백엔드 뿌시려는 개발자꿈나무
 
-<!--
-**ydh511/ydh511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 경력
+x
 
-Here are some ideas to get you started:
+## 스킬
+C, java, python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 툴
+linux
+
+## 연락처
+xxx-xxxx-xxxx
+
+
+
