@@ -1,5 +1,5 @@
 # Hi
-I am 백엔드 뿌시려는 개발자꿈나무
+hello hello hello
 
 ## 경력
 x
@@ -8,7 +8,7 @@ x
 C, java, python
 
 ## 툴
-linux
+spring boot
 
 ## 연락처
 xxx-xxxx-xxxx
